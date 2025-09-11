@@ -18,17 +18,19 @@ I have experience working in cloud-native environments (AWS, Docker, Jenkins, CI
 ---
 
 ### 🤝 Connect With Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dinesh-kumawat-4159a6238">
-    <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20Kumawat-blue?style=flat&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20Kumawat-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:kumawat.dinesh76@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kumawat.dinesh76@gmail.com-red?style=flat&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-kumawat.dinesh76%40gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="tel:+91 7627000907">
-    <img src="https://img.shields.io/badge/Phone-%2B91%207627000907-green?style=flat&logo=whatsapp"/>
+  <a href="tel:+917627000907">
+    <img src="https://img.shields.io/badge/Phone-%2B91%207627000907-brightgreen?style=for-the-badge&logo=whatsapp"/>
   </a>
 </p>
+
 
 ---
 
