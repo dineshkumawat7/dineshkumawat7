@@ -32,13 +32,10 @@ I am a results-driven Java developer with 2+ years of experience building scalab
 
 ## 📫 Connect with me
 - **LinkedIn:** https://www.linkedin.com/in/dinesh-kumawat-4159a6238  
-- **Email:** your.email@example.com
+- **Email:** kumawat.dinesh76@gmail.com
+- **Phone:** +91 7627000907
 
 ---
 
-## 📈 GitHub Stats
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
----
 
 > Open to opportunities and collaboration — feel free to reach out!
