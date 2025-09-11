@@ -23,10 +23,10 @@ I have experience working in cloud-native environments (AWS, Docker, Jenkins, CI
     <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20Kumawat-blue?style=flat&logo=linkedin"/>
   </a>
   <a href="mailto:kumawat.dinesh76@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-kumawat.dinesh76@gmail.com-red?style=flat&logo=gmail"/>
   </a>
   <a href="tel:+91 7627000907">
-    <img src="https://img.shields.io/badge/Phone-%2B91%209876543210-green?style=flat&logo=whatsapp"/>
+    <img src="https://img.shields.io/badge/Phone-%2B91%207627000907-green?style=flat&logo=whatsapp"/>
   </a>
 </p>
 
