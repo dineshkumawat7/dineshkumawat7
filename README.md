@@ -1,4 +1,4 @@
-# Hi, I'm Dinesh Kumawat 👋
+<h1 style="color:#2c3e50;">Hi, I'm Dinesh Kumawat 👋</h1>  
 **Java Developer | 2+ years** — Spring Boot • Microservices • Kafka • AWS • Docker • Jenkins • CI/CD • ReactJS • Redis
 
 ---
