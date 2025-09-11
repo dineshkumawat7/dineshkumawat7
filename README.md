@@ -1,4 +1,4 @@
-<h1 style="color:#2c3e50;">Hi, I'm Dinesh Kumawat 👋</h1>  
+<h1 style="color:#627BBC;">Hi, I'm Dinesh Kumawat 👋</h1>  
 **Java Developer | 2+ years** — Spring Boot • Microservices • Kafka • AWS • Docker • Jenkins • CI/CD • ReactJS • Redis
 
 ---
@@ -12,21 +12,8 @@
 ---
 
 ## 🚀 About Me
-I am a results-driven Java developer with 2+ years of experience building scalable backend systems and cloud-native applications. I enjoy designing microservices, implementing event-driven architectures using Kafka, and automating deployments with Docker and Jenkins. I also contribute on the frontend using React when required — I like to be a versatile, full-stack-minded engineer.
-
----
-
-## 🔍 What I’m doing now
-- Building microservices and event-driven pipelines.
-- Improving CI/CD pipelines and automating deployments.
-- Learning more about observability and distributed system patterns.
-
----
-
-## 🛠️ Notable Projects
-- **Project A** — Spring Boot microservice with Kafka for real-time events. (link to repo)  
-- **Project B** — Full-stack app using Spring Boot + React for [use-case]. (link to repo)  
-*(Add links to repos you want to showcase — pin them on your GitHub profile for visibility.)*
+I am a passionate Java Developer with 2+ years of professional experience in designing, developing, and deploying scalable applications. I specialize in Java, Spring Boot, and Microservices architecture, with hands-on expertise in building robust back-end systems and integrating real-time event-driven solutions using Kafka.
+I have experience working in cloud-native environments (AWS, Docker, Jenkins, CI/CD pipelines), ensuring smooth deployments and high availability. Alongside backend development, I also contribute to frontend projects using ReactJS, HTML, CSS, and JavaScript, enabling me to work across the full stack.
 
 ---
 
