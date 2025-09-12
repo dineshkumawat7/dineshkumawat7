@@ -49,3 +49,7 @@ I have experience working in cloud-native environments (AWS, Docker, Jenkins, CI
 <p>
   I enjoy building efficient, scalable, and high-quality software solutions while keeping myself updated with the latest technologies and best practices.
 </p>
+
+<p>
+Thanks for visiting! Feel free to check out my repositories or reach out for collaboration.
+</p>
