@@ -1,30 +1,41 @@
 <h1 style="color:#627BBC;">Hi, I'm Dinesh Kumawat 👋</h1>  
 <p>
-I am a passionate Java Developer with 2+ years of professional experience in designing, developing, and deploying scalable applications. I specialize in Java, Spring Boot, and Microservices architecture, with hands-on expertise in building robust back-end systems and integrating real-time event-driven solutions using Kafka.
-I have experience working in cloud-native environments (AWS, Docker, Jenkins, CI/CD pipelines), ensuring smooth deployments and high availability. Alongside backend development, I also contribute to frontend projects using ReactJS, HTML, CSS, and JavaScript, enabling me to work across the full stack.
+Java Developer with 2+ years of experience in building scalable microservices and enterprise applications using Java and the Spring ecosystem. Skilled in designing REST APIs, event-driven architectures, and integrating distributed systems using Kafka. Hands-on with AWS cloud services, Docker-based deployments, and CI/CD pipelines using Jenkins and GitHub Actions. Strong foundation in SQL/NoSQL databases, caching, code quality, and production monitoring with tools like SonarQube, Prometheus, and Grafana. Focused on writing clean, maintainable code and delivering reliable software in Agile environments.
 </p>
 
 ---
 
 ### 🔧 Tech Stack
+<strong>Core Programming & Web Technologies:<strong>
 <ul>
-  <li><strong>Programming Languages:</strong> C, C++, Java, Python, JavaScript, HTML5, CSS3</li>
-  <li><strong>Frameworks & Libraries:</strong>
-    <ul>
-      <li><strong>Backend:</strong> Spring, Spring Boot, Spring MVC, Spring Security, Spring JPA, Spring Cloud, Hibernate, REST API, Spring Batch, JSON, XML, WebSocket, Microservices Architecture, JWT</li>
-      <li><strong>Frontend:</strong> Bootstrap, jQuery, AJAX, ReactJS</li>
-    </ul>
+  <li><strong>Languages: </strong>Java, Python, JavaScript, HTML, CSS</li>
+  <li><strong>Databases: </strong>SQL (MySQL, PostgreSQL), NoSQL (MongoDB, DynamoDB, Elasticsearch)</li>
+  <li><strong>Version Control: </strong>Git (GitHub, GitLab)</li>
+</ul>
+<strong>Backend Development (Java/Microservices):<strong>
+<ul>
+  <li><strong>Frameworks & Libraries: </strong>Spring Ecosystem (Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring Cloud), Hibernate (ORM), RESTful API design, JSON, XML.</li>
+  <li><strong>Microservices Architecture: </strong>Implementation using Spring Cloud (Eureka Service Registry, API Gateway), Circuit Breakers,
+    Inter-service Communication (Rest Template, Feign Client), Retry Mechanism, JWT.
   </li>
-  <li><strong>Databases:</strong> MySQL, MongoDB, PostgreSQL, Elasticsearch, Oracle, DynamoDB</li>
-  <li><strong>Version Control:</strong> Git, GitHub, GitLab, Bitbucket</li>
-  <li><strong>Testing Tools:</strong> JUnit, Mockito, Postman</li>
-  <li><strong>Build Tools:</strong> Maven, Gradle</li>
-  <li><strong>Microservices:</strong> Spring Cloud Gateway, Eureka Service Registry, Circuit Breaker (Resilience4j/Hystrix), RestTemplate, Feign Client, Retry Mechanism</li>
-  <li><strong>Cloud Services:</strong> AWS (EC2, S3, RDS, Lambda, CloudWatch, SQS, DynamoDB, API Gateway), Google Cloud Platform (GCP)</li>
-  <li><strong>DevOps Tools:</strong> Docker, Jenkins, CI/CD Pipelines, Terraform</li>
-  <li><strong>Other Tools:</strong> Jira, Swagger, Apache Kafka, Apache Camel, Redis (SSL/TLS configuration), Prometheus, Grafana, Monitoring</li>
-  <li><strong>Operating System:</strong> Windows, Linux</li>
-  <li><strong>IDEs:</strong> IntelliJ IDEA, Eclipse, Visual Studio Code</li>
+  <li><strong>Enterprise Integration: </strong>Apache Kafka (Messaging), Apache Camel (Integration Patterns).</li>
+</ul>
+<strong>Frontend Development:<strong>
+<ul>
+  <li>HTML, CSS, JavaScript, Bootstrap, jQuery, AJAX</li>
+</ul>
+<strong>Cloud Computing & DevOps (CI/CD):<strong>
+<ul>
+  <li><strong>Cloud Platforms: </strong>Amazon Web Services (AWS) - (EC2, S3, RDS, Lambda, API Gateway, SQS, SNS, CloudWatch, DynamoDB), Google Cloud Platform (GCP).</li>
+  <li><strong>Containerization & Orchestration: </strong>Docker, Basic Kubernetes.</li>
+  <li><strong>CI/CD: </strong>Automated Pipelines, Jenkins, Gitlab CI/CD Pipeline and GitHub Action.</li>
+</ul>
+<strong>Testing, Tools & Monitoring:<strong>
+<ul>
+  <li><strong>Testing: </strong>Unit Testing (JUnit, Mockito), API Testing (Postman).</li>
+  <li><strong>Build Tools: </strong>Maven, Gradle.</li>
+  <li><strong>Other Tools: </strong>Redis (Caching), Jira (Issue Tracking), Swagger (API Documentation), SonarQube (Code Quality), Prometheus & Grafana (Monitoring), Microsoft - Excel, Word, SharePoint.</li>
+  <li><strong>•	IDEs & OS: </strong>IntelliJ IDEA, Eclipse, VS Code, Windows/Linux.</li>
 </ul>
 
 ---
@@ -35,8 +46,8 @@ I have experience working in cloud-native environments (AWS, Docker, Jenkins, CI
   <a href="https://www.linkedin.com/in/dinesh-kumawat-4159a6238">
     <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20Kumawat-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:kumawat.dinesh76@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kumawat.dinesh76%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:dkumawat7627@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dkumawat7627%40gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="tel:+917627000907">
     <img src="https://img.shields.io/badge/Phone-%2B91%207627000907-brightgreen?style=for-the-badge&logo=whatsapp"/>
