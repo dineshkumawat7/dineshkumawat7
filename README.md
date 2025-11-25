@@ -35,7 +35,7 @@ Java Developer with 2+ years of experience in building scalable microservices an
   <li><strong>Testing: </strong>Unit Testing (JUnit, Mockito), API Testing (Postman).</li>
   <li><strong>Build Tools: </strong>Maven, Gradle.</li>
   <li><strong>Other Tools: </strong>Redis (Caching), Jira (Issue Tracking), Swagger (API Documentation), SonarQube (Code Quality), Prometheus & Grafana (Monitoring), Microsoft - Excel, Word, SharePoint.</li>
-  <li><strong>•	IDEs & OS: </strong>IntelliJ IDEA, Eclipse, VS Code, Windows/Linux.</li>
+  <li><strong>IDEs & OS: </strong>IntelliJ IDEA, Eclipse, VS Code, Windows/Linux.</li>
 </ul>
 
 ---
